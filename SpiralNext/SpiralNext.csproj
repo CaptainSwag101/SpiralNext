@@ -60,18 +60,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Source\Console\CockpitMechanic.cs" />
-    <Compile Include="Source\Console\CockpitPilot.cs" />
-    <Compile Include="Source\Console\Data\GurrenArgs.cs" />
-    <Compile Include="Source\Console\Cockpit.cs" />
+    <Compile Include="Source\Konsoru\CockpitMechanic.cs" />
+    <Compile Include="Source\Konsoru\CockpitPilot.cs" />
+    <Compile Include="Source\Konsoru\Data\GurrenArgs.cs" />
+    <Compile Include="Source\Konsoru\Cockpit.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Source\Console\Commands\" />
-    <Folder Include="Source\Console\Imperator\" />
+    <Folder Include="Source\Konsoru\Commands\" />
+    <Folder Include="Source\Konsoru\Imperator\" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">

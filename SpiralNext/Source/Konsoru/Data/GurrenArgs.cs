@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SpiralNext.Console.Data
+namespace SpiralNext.Konsoru.Data
 {
     class GurrenArgs
     {

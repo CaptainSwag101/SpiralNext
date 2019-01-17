@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SpiralNext.Console
+namespace SpiralNext.Konsoru
 {
     class CockpitMechanic
     {
